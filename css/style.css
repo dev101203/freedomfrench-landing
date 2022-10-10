@@ -1,0 +1,40 @@
+.header {
+    background-color: #775ba3
+}
+.nav-link {
+    font-size: 14px;
+}
+
+.carousel-indicators [data-bs-target] {
+    width: 10px;
+    height: 10px;
+    border-radius:100%;
+    border: 2px solid white;
+    background: transparent;
+    opacity:1;
+    
+}
+
+.carousel-indicators .active {
+    background-color: white;
+    width: 10px;
+    height: 10px;
+}
+
+.main-title {
+    color: #4b3f55;
+}
+
+.bi-apple::before {
+    border: 1px solid black;
+    height: 50px;
+    width: 50px;
+    border-radius: 100%;
+    text-align: center;
+    padding-top:12px;
+}
+
+.footer {
+    background-color: #54865d;
+    
+}
